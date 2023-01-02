@@ -6,6 +6,33 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$AcaLhkfdzDFrQdfQFUhgPe8ZwIzg1638CxPC7UoDVKdJlqRZ11.2e",
+      "name": "teste",
+      "age": 32,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "type": "Gato",
+      "name": "Bob",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "Gato",
+      "name": "Mel",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "type": "Cachorro",
+      "name": "Jota",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
